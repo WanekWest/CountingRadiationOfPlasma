@@ -31,8 +31,5 @@
 
 	
 Контактные данные: 
-Бровченко Иван Витальевич
-тел. 8-982-514-49-53
-broviva@mail.ru
 vk.com/wanek_west
 https://github.com/WanekWest/CountingRadiationOfPlasma
