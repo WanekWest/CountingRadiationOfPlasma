@@ -31,5 +31,4 @@
 
 	
 Контактные данные: 
-vk.com/wanek_west
 https://github.com/WanekWest/CountingRadiationOfPlasma
